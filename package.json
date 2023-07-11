@@ -1,5 +1,5 @@
 {
-    "name": "bakaxl-docs-deploy",
+    "name": "clion-page",
     "scripts": {
         "dev": "vuepress dev docs",
         "build": "vuepress build docs",
